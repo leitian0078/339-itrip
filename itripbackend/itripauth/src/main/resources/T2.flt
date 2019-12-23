@@ -1,0 +1,32 @@
+<html>
+    <head></head>
+    <body>
+            <h1>这是一个模板</h1>
+<table>
+
+
+          <#list l as User>
+
+             <#if User.id==0>
+
+                  <tr style="background-color:red;">
+             <#else>
+
+                      <tr>
+             </#if>
+
+
+                 <td>
+
+
+                ${User.id} ${User.name}
+                 </td>
+             </tr>
+
+
+
+          </#list>
+
+    </table>
+    </body>
+</html>

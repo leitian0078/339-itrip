@@ -1,0 +1,17 @@
+127.0.0.1 - - [23/Dec/2019:10:13:37 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 200 1198 http-bio-8082-exec-1 204
+127.0.0.1 - - [23/Dec/2019:10:13:37 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 200 1234 http-bio-8082-exec-2 204
+127.0.0.1 - - [23/Dec/2019:10:13:37 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-3 204
+127.0.0.1 - - [23/Dec/2019:10:13:41 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-4 7
+127.0.0.1 - - [23/Dec/2019:10:13:41 +0800] "GET /biz/api/hotel/querytradearea/2 HTTP/1.0" 500 7589 http-bio-8082-exec-5 33
+127.0.0.1 - - [23/Dec/2019:10:13:46 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 200 1198 http-bio-8082-exec-6 17
+127.0.0.1 - - [23/Dec/2019:10:13:46 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-8 16
+127.0.0.1 - - [23/Dec/2019:10:13:46 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 200 1234 http-bio-8082-exec-7 22
+127.0.0.1 - - [23/Dec/2019:10:13:57 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-9 8
+127.0.0.1 - - [23/Dec/2019:10:13:57 +0800] "GET /biz/api/hotel/querytradearea/2 HTTP/1.0" 500 7589 http-bio-8082-exec-10 13
+127.0.0.1 - - [23/Dec/2019:10:14:03 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-3 12
+127.0.0.1 - - [23/Dec/2019:10:14:03 +0800] "GET /biz/api/hotel/querytradearea/2 HTTP/1.0" 500 7589 http-bio-8082-exec-1 18
+127.0.0.1 - - [23/Dec/2019:10:58:45 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 200 1198 http-bio-8082-exec-1 418
+127.0.0.1 - - [23/Dec/2019:10:58:45 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 200 1234 http-bio-8082-exec-3 418
+127.0.0.1 - - [23/Dec/2019:10:58:45 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-2 418
+127.0.0.1 - - [23/Dec/2019:10:58:56 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 200 1567 http-bio-8082-exec-4 17
+127.0.0.1 - - [23/Dec/2019:10:58:56 +0800] "GET /biz/api/hotel/querytradearea/2 HTTP/1.0" 200 2557 http-bio-8082-exec-5 32

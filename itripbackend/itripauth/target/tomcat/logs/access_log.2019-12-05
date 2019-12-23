@@ -1,0 +1,7 @@
+127.0.0.1 - - [05/Dec/2019:08:40:04 +0800] "POST /auth/api/dologin HTTP/1.0" 200 151 http-bio-8081-exec-1 511
+127.0.0.1 - - [05/Dec/2019:12:23:48 +0800] "POST /auth/api/dologin HTTP/1.0" 200 151 http-bio-8081-exec-1 357
+127.0.0.1 - - [05/Dec/2019:12:25:18 +0800] "GET /biz//hotel/queryhotcity/2 HTTP/1.1" 404 - http-bio-8081-exec-2 0
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:12:26:00 +0800] "GET /auth HTTP/1.1" 302 - http-bio-8081-exec-5 0
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:12:26:00 +0800] "GET /auth/ HTTP/1.1" 200 54 http-bio-8081-exec-7 85
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:12:26:00 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-8 0
+127.0.0.1 - - [05/Dec/2019:12:27:49 +0800] "POST /auth/api/dologin HTTP/1.0" 200 151 http-bio-8081-exec-10 12
